@@ -352,8 +352,8 @@ body.ar .navbar-mobile .mobile-nav-toggle {
 }
 body.en .navbar-mobile .mobile-nav-toggle {
   position: absolute;
-  top: 15px;
-  right: 15px;
+  top: 40px;
+  left: 11px;
 }
 
 
